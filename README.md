@@ -1,7 +1,7 @@
 <h1 size=20 align="center">Personal Profile</h1>
-<center>
+<div align=center>
 <img src="vgirl.jpg" width=640 height=640 align="center"/>
-</center>
+</div>
 <!--
 **255isWhite/255isWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
